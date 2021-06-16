@@ -17,5 +17,6 @@ I use this repository to illustrate the diagrams of the different design pattern
 
 - ### [Behavioral patterns](Behavioral%20patterns)
 
-  ​	- [Observer pattern](Behavioral%20patterns/Observer%20pattern)
+  	- [Observer pattern](Behavioral%20patterns/Observer%20pattern)
+   - [Template method pattern](Behavioral%20patterns/Template%20method%20pattern)
 
