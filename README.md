@@ -20,8 +20,14 @@ I use this repository to illustrate the diagrams of the different design pattern
   	- [Observer pattern](Behavioral%20patterns/Observer%20pattern)
 
    - [Template method pattern](Behavioral%20patterns/Template%20method%20pattern)
+  
    - [Strategy pattern](Behavioral%20patterns/Strategy%20pattern)
+  
    - [Chain of responsibility pattern](Behavioral%20patterns/Chain%20of%20responsibility%20pattern)
+  
   - [Mediator pattern](Behavioral%20patterns/Mediator%20pattern)
-
+  
+  - [Command pattern](Behavioral%20patterns/Command%20pattern)
+  
+    
   
