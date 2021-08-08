@@ -29,5 +29,8 @@ I use this repository to illustrate the diagrams of the different design pattern
   
   - [Command pattern](Behavioral%20patterns/Command%20pattern)
   
+  - [Iterator pattern](Behavioral%20patterns/Iterator%20pattern)
+  
     
   
+
