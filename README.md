@@ -31,6 +31,8 @@ I use this repository to illustrate the diagrams of the different design pattern
   
   - [Iterator pattern](Behavioral%20patterns/Iterator%20pattern)
   
+  - [Visitor pattern](Behavioral%20patterns/Visitor%20pattern)
+  
     
   
 
