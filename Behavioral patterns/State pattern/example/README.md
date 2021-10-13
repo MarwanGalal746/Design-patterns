@@ -7,7 +7,7 @@
 
 ## :black_nib: UML diagram 
 
-![](exampleDiagram.png)
+![](example diagram.png)
 
 ## 💻 Running
 
