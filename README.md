@@ -37,4 +37,7 @@ I use this repository to illustrate the diagrams of the different design pattern
   
     
   
+- ### [Structural patterns](Structural%20patterns)
+
+  - [Adapter pattern](Structural%20patterns/Adapter%20pattern)
 
