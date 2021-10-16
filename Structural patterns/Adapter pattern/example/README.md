@@ -1,13 +1,13 @@
 <div align="center">
   <br>
-  <h1>State pattern</h1>
+  <h1>Satte pattern</h1>
 </div>
 
 
 
 ## :black_nib: UML diagram 
 
-![](example%20diagram.png)
+![](exampleDiagram.png)
 
 ## 💻 Running
 
