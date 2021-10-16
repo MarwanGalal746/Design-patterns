@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1>Satte pattern</h1>
+  <h1>Adapter pattern</h1>
 </div>
 
 
@@ -17,4 +17,4 @@ Open the terminal or the command line in this directory and type the following c
 
 `javac *`
 
-`java Main`
+`java Main`	
